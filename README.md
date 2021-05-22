@@ -1,2 +1,2 @@
-# testin_taxi_app
+# testing_taxi_app
 Тестирование приложения Такси
